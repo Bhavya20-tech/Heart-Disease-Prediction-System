@@ -55,8 +55,8 @@ Model Used:
 """)
 
 # Load the trained model and scaler
-model = joblib.load("heart_model (4).pkl")
-scaler = joblib.load("scaler (1).pkl")
+model = joblib.load("heart_model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 
 
