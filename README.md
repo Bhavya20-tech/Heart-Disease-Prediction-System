@@ -18,7 +18,8 @@ A Machine Learning web application that predicts whether a patient is likely to 
 - Pandas
 - NumPy
 - Joblib
-
+- Matplotlib
+  
 ## Dataset
 
 UCI Heart Disease Dataset
